@@ -1,0 +1,1 @@
+export const apiBaseUrl = "https://happypet-e6b5dkbeezarabe8.brazilsouth-01.azurewebsites.net/api";
